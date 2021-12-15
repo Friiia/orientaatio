@@ -10,5 +10,3 @@
 - Olen tehnyt kuitenkin pääosan työurastani vanhusten parissa eri tehostetun palvelun yksiköissä, sekä kotihoidossa. Olen ollut myös hengityshalvausyksikössä, sekä esikoulussa lastenhoitajana.
 ---
 Linkin: [Linkedin tili](https://www.linkedin.com/in/elsi-pulli-707b87210/)
-
-![profiilikuva](img/profiili.jpg)
