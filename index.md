@@ -11,4 +11,4 @@
 ---
 Linkin: [Linkedin tili](https://www.linkedin.com/in/elsi-pulli-707b87210/)
 
-![profiilikuva](./img/profiili.jpg)
+![profiilikuva](img/profiili.jpg)
